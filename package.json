@@ -1,0 +1,33 @@
+{
+  "name": "jate",
+  "version": "1.0.0",
+  "description": "a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.",
+  "main": "server.js",
+  "scripts": {
+    "start:dev": "",
+    "start": "",
+    "server": "",
+    "build": "",
+    "install": "",
+    "client": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christina2208/J.A.T.E-PWA.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Christina2208/J.A.T.E-PWA/issues"
+  },
+  "homepage": "https://github.com/Christina2208/J.A.T.E-PWA#readme"
+}
