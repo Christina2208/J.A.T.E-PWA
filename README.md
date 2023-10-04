@@ -3,14 +3,20 @@ a text editor that runs in the browser. The app will be a single-page applicatio
 
 ## Deployed Application URL
 
+https://github.com/Christina2208/J.A.T.E-PWA/deployments/jate-pwa-txteditor
 
 ## Screenshot
 
-<!-- ![alt-text](https://github.com/Christina2208/README-Generator/blob/main/images/README%20Gen%20SS.png) -->
+![alt-text](https://github.com/Christina2208/J.A.T.E-PWA/blob/main/images/text-editor.png)
+
+![alt-text](https://github.com/Christina2208/J.A.T.E-PWA/blob/main/images/indexDB.png)
+
+![alt-text](https://github.com/Christina2208/J.A.T.E-PWA/blob/main/images/manifest.png)
+
+![alt-text](https://github.com/Christina2208/J.A.T.E-PWA/blob/main/images/service-workers.png)
+
 ## Table of Contents
 *[Features](#features)
-
-*[Usage](#usage)
 
 *[Dependencies](#dependencies)
 
@@ -23,9 +29,9 @@ a text editor that runs in the browser. The app will be a single-page applicatio
 *[Questions](#email)
 ## Features
 
-
-## Usage
-
+- Run the text editor in your browser
+- Run the text editor as a seperate application
+- Offline Capability
 
 ## Dependencies
 
@@ -41,8 +47,6 @@ a text editor that runs in the browser. The app will be a single-page applicatio
 - https://github.com/
 - https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
 - https://www.npmjs.com/package/npm-install-webpack-plugin
-
-
 
 ## Tests
 
