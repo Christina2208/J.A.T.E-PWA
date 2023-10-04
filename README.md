@@ -39,7 +39,9 @@ a text editor that runs in the browser. The app will be a single-page applicatio
 - https://stackoverflow.com
 - https://developer.mozilla.org/en-US/
 - https://github.com/
--https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+- https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+- https://www.npmjs.com/package/npm-install-webpack-plugin
+
 
 
 ## Tests
